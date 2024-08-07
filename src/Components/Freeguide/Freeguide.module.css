@@ -1,0 +1,42 @@
+.sec{
+    padding: 50px;
+    position: relative;
+}
+.image{
+    width: 50%;
+}
+.img{
+    width: 130%;
+    margin-left: 100px;
+    margin-bottom: -600px;
+}
+.text{
+    margin-top: 80px;
+}
+
+.h1{
+    color: #333461;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.p{
+    color: #4A556C;
+    font-weight: 400;
+    font-size: 17px;
+    width: 90%;
+    margin-bottom: 30px;
+}
+
+.button{
+    color: #fff;
+    background-color: #20AD96;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px 30px;
+}
+.ellipse{
+    width: 30%;
+    margin-left: 400px;
+    margin-top: 20px;
+}

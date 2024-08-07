@@ -1,0 +1,34 @@
+.sec{
+    margin-top: 80px;
+}
+.row{
+    background-color: #FAF8F6;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.text{
+    width: 50%;
+    margin-top: 80px;
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.p{
+    color: rgba(74, 85, 108, 0.5);
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.button{
+    color: #fff;
+    background-color: #20AD96;
+    font-size: 14px;
+    padding: 8px 60px;
+}
+.img{
+    width: 80%;
+    margin-left: 120px;
+}

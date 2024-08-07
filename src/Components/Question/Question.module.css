@@ -1,0 +1,27 @@
+.sec{
+    margin-top: 80px;
+}
+.content{
+    background-color: #FAF8F6;
+    border-radius: 20px;
+}
+.h3{
+    color: #333461;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.p{
+    color: #4A556C;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.button{
+    color: #fff;
+    background-color: #20AD96;
+    margin: auto;
+    font-size: 15px;
+    padding: 8px 70px;
+    margin-bottom: 40px;
+}

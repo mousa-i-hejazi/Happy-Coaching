@@ -1,0 +1,14 @@
+.sec{
+    margin-top: 80px;
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.p{
+    color: rgba(74, 85, 108, 0.7);
+    font-size: 18px;
+    width: 40%;
+    margin: auto;
+}

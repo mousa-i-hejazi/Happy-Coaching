@@ -1,0 +1,34 @@
+.sec{
+    padding: 50px;
+    position: relative;
+    background-color: #FAF8F6;
+}
+.image{
+    width: 50%;
+}
+.img{
+    width: 120%;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.text{
+    margin-top: 80px;
+}
+.p{
+    color: rgba(74, 85, 108, 1);
+    font-weight: 400;
+
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 20px;
+}
+.p2{
+    color: #4A556C;
+    font-size: 17px;
+    font-weight: 400;
+    width: 90%;
+    margin-bottom: 30px;
+}

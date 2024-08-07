@@ -1,0 +1,46 @@
+.sec{
+    margin-top: 80px;
+}
+.image{
+    width: 50%;
+}
+.img{
+    width: 70%;
+    margin-left: 80px;
+}
+.ellipse{
+    width: 15%;
+    margin-top: -500px;
+    margin-left: -50px;
+}
+.text{
+    margin-top: 50px;
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.p{
+    color: rgba(74, 85, 108, 0.7);
+    font-size: 16px;
+    width: 70%;
+    margin-bottom: 30px;
+}
+.input{
+    color: rgba(102, 112, 133, 1);
+    padding: 8px 100px 8px 20px;
+    border-radius: 10px;
+    border: 1px solid rgba(208, 213, 221, 1);
+    margin-bottom: 20px;
+}
+.p2{
+    color: rgba(102, 112, 133, 1);
+    font-size: 15px;
+}
+.button{
+    color: #fff;
+    background-color: #20AD96;
+    font-size: 14px;
+    padding: 8px 60px;
+}

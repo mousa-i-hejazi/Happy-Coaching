@@ -1,0 +1,36 @@
+.sec{
+    margin-top: 80px;
+    background-color: #FAF8F6;
+
+}
+.text{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.p{
+    color: #4A556C;
+    font-weight: 400;
+    font-size: 18.5px;
+}
+.input{
+    margin-top: 80px;
+}
+.inp{
+    padding: 8px 50px 8px 15px;
+    color: rgba(74, 85, 108, 0.5);
+    border: 1px solid #D0D5DD;
+    border-radius: 10px;
+}
+.button{
+    color: #fff;
+    background-color: #20AD96;
+    padding: 8px 30px;
+    border-radius: 10px;
+    margin-left: 20px;
+}

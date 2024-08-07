@@ -1,0 +1,51 @@
+.sec{
+    margin-top: 80px;
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+}
+.row{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.img{
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+.h3{
+    color: rgba(4, 20, 52, 1);
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.h32{
+    color: #20AD96;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.p2{
+    color: rgba(74, 85, 108, 1);
+    font-size: 15px;
+    width: 85%;
+    margin-bottom: 50px;
+}
+.card{
+    border: 1px solid #EDEFF5;
+    margin: 20px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+}
+.card2{
+    border: 1px solid #EDEFF5;
+    margin: 20px;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+.card4{
+    border: 1px solid #EDEFF5;
+    margin: 20px;
+    padding-left: 50px;
+    margin-top: 50px;
+}

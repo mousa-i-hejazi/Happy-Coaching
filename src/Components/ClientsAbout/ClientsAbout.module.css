@@ -1,0 +1,42 @@
+.sec{
+    background-color: #FAF8F6;
+    margin-top: 80px;
+    padding-top: 80px;
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    margin-bottom: 3%;
+}
+.row{
+    margin-right: -100px;
+}
+.card{
+    background-color: #fff;
+    padding: 30px;
+    width: 30%;
+    margin-right: 20px;
+    margin-bottom: 150px;
+}
+.p{
+    color: #4A556C;
+    font-size: 18px;
+    font-weight: 400;
+    width: 70%;
+}
+.h3{
+    color: #333461;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.img{
+    margin-bottom: 20px;
+}
+.h5{
+    color: rgba(219, 222, 230, 1);
+    font-weight: 700;
+}
+.h51{
+    color: #20AD96;
+    font-weight: 700;
+}

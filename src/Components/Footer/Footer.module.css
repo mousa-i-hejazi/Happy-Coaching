@@ -1,0 +1,33 @@
+.sec{
+    margin-top: 80px;
+}
+.logo{
+    margin-bottom: 30px;
+}
+.p1{
+    color: rgba(74, 85, 108, 0.5);
+    font-size: 16px;
+    width: 90%;
+}
+.p{
+    color: rgba(74, 85, 108, 0.5);
+    font-size: 16px;
+}
+.h5{
+    margin-bottom: 20px;
+}
+.line{
+    margin-left: -50px;
+    margin-bottom: 50px;
+}
+.row{
+    margin-bottom: 50px;
+}
+.made{
+    width: 20%;
+    height: 20px;
+    margin-bottom: 50px;
+}
+.icons{
+    margin-bottom: 50px;
+}

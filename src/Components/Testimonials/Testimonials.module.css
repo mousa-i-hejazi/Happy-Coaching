@@ -1,0 +1,47 @@
+.sec{
+    margin-top: 80px;
+}
+.p{
+    color: rgba(74, 85, 108, 0.5);
+    font-size: 18px;
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    margin-bottom: 80px;
+}
+.button{
+    color: #fff;
+    background-color: #20AD96;
+    padding: 8px 60px;
+    margin: auto 0;
+}
+.row{
+    margin-left: 100px;
+}
+.card{
+    margin-right: 20px;
+    border: 1px solid #EDEFF5;
+    margin-bottom: 40px;
+}
+.p1{
+    color: #667085;
+    margin-top: 30px;
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+.img{
+    margin-bottom: 20px;
+}
+.h3{
+    color: #333461;
+    font-weight: 600;
+    font-size: 25px;
+}
+.p2{
+    color: rgba(74, 85, 108, 0.5);
+    font-size: 18px;
+}
+.star{
+    margin-bottom: 20px;
+}

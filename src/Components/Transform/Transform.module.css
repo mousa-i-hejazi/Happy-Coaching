@@ -1,0 +1,45 @@
+.sec{
+    margin-top: 80px;
+}
+.p1{
+    color: rgba(74, 85, 108, 0.5);
+    font-size: 18px;
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.p2{
+    color: rgba(74, 85, 108, 0.7);
+    font-size: 15px;
+    width: 30%;
+    margin-bottom: 50px;
+}
+.text{
+    margin-top: 30px;
+}
+.imgcard{
+    width: 12%;
+    height: 50px;
+}
+.cardtext{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.h3{
+    color: #333461;
+    font-size: 22px;
+    font-weight: 600;
+}
+.pcard{
+    color: #667085;
+    margin-bottom: 40px;
+}
+.image{
+    width: 50%;
+}
+.img{
+    width: 100%;
+
+}

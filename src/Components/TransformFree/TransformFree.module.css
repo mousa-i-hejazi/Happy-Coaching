@@ -1,0 +1,41 @@
+.sec{
+    margin-top: 80px;
+    background-color: #FAF8F6;
+    margin-bottom: 400px;
+}
+.p1{
+    color: rgba(74, 85, 108, 0.5);
+    font-size: 18px;
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.p2{
+    color: rgba(74, 85, 108, 0.7);
+    font-size: 17px;
+    width: 85%;
+}
+.text{
+    margin-top: 20px;
+}
+.h3{
+    color: #333461;
+    font-weight: 600;
+    font-size: 25px;
+}
+.pcard{
+    color: #667085;
+}
+.imgcard{
+    width: 15%;
+    height: 70px;
+    margin-top: -15px;
+}
+.img{
+    width: 70%;
+    margin: auto;
+    margin-bottom: -350px;
+    
+}

@@ -1,0 +1,50 @@
+.sec{
+    padding: 50px;
+    position: relative;
+    background-color: #FAF8F6;
+}
+.image{
+    width: 50%;
+}
+.img{
+    width: 120%;
+    margin-left: 200px;
+    margin-bottom: -600px;
+}
+.text{
+    margin-top: 80px;
+}
+.line{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.p{
+    color: rgba(74, 85, 108, 1);
+    font-weight: 400;
+
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.p2{
+    color: #4A556C;
+    font-size: 17px;
+    font-weight: 400;
+    width: 90%;
+    margin-bottom: 30px;
+}
+.frame{
+    margin-top: -80px;
+    margin-left: -70px;
+}
+.button{
+    color: #fff;
+    background-color: #20AD96;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px 30px;
+}

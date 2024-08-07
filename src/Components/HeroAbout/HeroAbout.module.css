@@ -1,0 +1,50 @@
+.sec{
+    padding: 50px;
+    background-color: #FAF8F6;
+}
+.image{
+    width: 50%;
+}
+.img{
+    width: 130%;
+    margin-left: 200px;
+    margin-bottom: -600px;
+}
+.text{
+    margin-top: 180px;
+}
+.p{
+    color: rgba(74, 85, 108, 1);
+    font-weight: 400;
+
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.p2{
+    color: #4A556C;
+    font-size: 17px;
+    font-weight: 400;
+    width: 90%;
+    margin-bottom: 30px;
+}
+.frame{
+    width: 85%;
+    margin-left: 430px;
+    margin-top: 200px;
+}
+.ellipse{
+    margin-top: -750px;
+    margin-left: 200px;
+    width: 70%;
+}
+.button{
+    color: #fff;
+    background-color: #20AD96;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px 30px;
+}

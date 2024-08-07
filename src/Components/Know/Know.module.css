@@ -1,0 +1,40 @@
+.sec{
+    margin-top: 80px;
+}
+.h1{
+    color: #333461;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.p{
+    color: #4A556C;
+    font-size: 18px;
+    margin-bottom: 50px;   
+}
+.card{
+    padding: 0 200px;
+}
+.h3{
+    color: rgba(16, 24, 40, 1);
+    font-weight: 500;
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+.pcard{
+    color: #4A556C;
+    font-size: 15px;
+    width: 90%;
+    margin-bottom: 30px;
+}
+.iconcard{
+    width: 5%;
+    height: 25px;
+}
+.icon{
+    width: 3%;
+    height: 20px;
+}
+.line{
+    padding: 0 200px;
+    margin-bottom: 30px;
+}
